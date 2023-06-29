@@ -1,4 +1,4 @@
-https:🤟//github.🤟com/MUMIT-404-CYBER/DECOMPILE-STORE/tree/main/__New-Kids-Blade__import os,sys,time,json,random,re,string,platform,base64,uuid
+https://github.com/MUMIT-404-CYBER/DECOMPILE-STORE/tree/main/__New-Kids-Blade__import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
